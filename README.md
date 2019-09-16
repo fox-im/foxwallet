@@ -1,0 +1,2 @@
+# foxwallet
+foxwallet是由foxim技术团队研发的开源的区块链钱包
